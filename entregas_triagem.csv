@@ -1,0 +1,21 @@
+id;cliente;origem;destino;peso;status
+100;Mariana Costa;São Paulo;Campinas;12.50;PENDENTE
+101;Rafael Mendes;Rio de Janeiro;Niterói;4.75;PENDENTE
+102;Beatriz Nunes;Belo Horizonte;Juiz de Fora;86.00;PENDENTE
+103;Lucas Ferreira;Curitiba;Londrina;32.40;PENDENTE
+104;Sofia Rocha;Salvador;Feira de Santana;7.25;PENDENTE
+105;Gabriela Lopes;Recife;Caruaru;18.60;PENDENTE
+106;Pedro Henrique;Fortaleza;Sobral;2.30;PENDENTE
+107;Mariana Carvalho;Goiânia;Anápolis;145.00;PENDENTE
+108;Eduardo Barros;Porto Alegre;Caxias do Sul;56.75;PENDENTE
+109;Isabela Moura;Florianópolis;Joinville;9.90;PENDENTE
+110;André Ribeiro;Vitória;Cachoeiro de Itapemirim;21.35;PENDENTE
+111;Carolina Freitas;Natal;Mossoró;16.80;PENDENTE
+112;Daniel Azevedo;João Pessoa;Campina Grande;8.25;PENDENTE
+113;Elisa Monteiro;Maceió;Arapiraca;74.00;PENDENTE
+114;Felipe Castro;Aracaju;Itabaiana;3.60;PENDENTE
+115;Giovanna Pires;Teresina;Parnaíba;45.90;PENDENTE
+116;Henrique Duarte;São Luís;Imperatriz;110.00;PENDENTE
+117;Ingrid Almeida;Campo Grande;Dourados;14.00;PENDENTE
+118;João Vitor Dias;Cuiabá;Rondonópolis;92.30;PENDENTE
+119;Letícia Ramos;Palmas;Araguaína;27.15;PENDENTE
