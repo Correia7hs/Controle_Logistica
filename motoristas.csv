@@ -1,0 +1,21 @@
+id;nome;veiculo;placa;carga_kg;status
+100;Ana Souza;Moto;VGB-1108;50;ATIVO
+101;Bruno Lima;Carro;RPK-2045;200;ATIVO
+102;Camila Oliveira;Caminhão;TLM-6721;1000;ATIVO
+103;Diego Santos;Moto;JCN-8834;50;ATIVO
+104;Fernanda Costa;Carro;FDR-1590;200;ATIVO
+105;Gabriel Ferreira;Caminhão;NQS-3147;1000;ATIVO
+106;Helena Martins;Moto;BTR-6283;50;ATIVO
+107;Igor Almeida;Carro;LMC-9502;200;ATIVO
+108;Juliana Ribeiro;Caminhão;PAZ-1764;1000;ATIVO
+109;Kauã Mendes;Moto;XCE-5039;50;ATIVO
+110;Laura Cardoso;Carro;KDF-2187;200;ATIVO
+111;Marcelo Almeida;Caminhão;MVP-6391;1000;ATIVO
+112;Natália Barros;Moto;QRS-4052;50;ATIVO
+113;Otávio Pereira;Carro;HJL-8730;200;ATIVO
+114;Patrícia Nunes;Caminhão;CTN-2468;1000;ATIVO
+115;Rafael Costa;Moto;WAD-5173;50;ATIVO
+116;Sabrina Teixeira;Carro;GOP-9026;200;ATIVO
+117;Thiago Moreira;Caminhão;ZKM-3814;1000;ATIVO
+118;Vanessa Rocha;Moto;EFC-7642;50;ATIVO
+119;Wesley Carvalho;Carro;UHN-1359;200;ATIVO
